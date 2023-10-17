@@ -7,12 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-    composer install
+    composer install/update (sebelum melakukan ini pastinya sudah menginstall composer.exe ke php.exe kalian
 
-    db sesuaikan
+    db sesuaikan dengan db yang ingin digunakan
 
     key:generate
 
     migrate --seed
 
     storage:link
+
+    php artisan serve untuk melaunch server 
+
+
+    Web E Commerce Simple 
